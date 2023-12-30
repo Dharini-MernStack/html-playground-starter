@@ -1,2 +1,4 @@
-tabs: ['index.html', 'script.js', 'style.css']
-terminals: ['static-server -p 1337 --no-cache']
+app.post("/name", function(req, res) {
+  // Handle the data in the request
+
+});
